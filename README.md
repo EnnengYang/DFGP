@@ -1,4 +1,4 @@
-# DFGP-ICCV-2023
+# Data Augmented Flatness-aware Gradient Projection for Continual Learning. ICCV, 2023.
 
 A repository of **'[Data Augmented Flatness-aware Gradient Projection for Continual Learning. ICCV, 2023.](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Data_Augmented_Flatness-aware_Gradient_Projection_for_Continual_Learning_ICCV_2023_paper.pdf)'**.
 
@@ -9,6 +9,14 @@ A repository of **'[Data Augmented Flatness-aware Gradient Projection for Contin
 ## Citation
 If you find our paper or this resource helpful, please consider cite:
 ```
+@article{yang2025revisiting_TPAMI_2025,
+  title={Revisiting Flatness-aware Optimization in Continual Learning with Orthogonal Gradient Projection},
+  author={Yang, Enneng and Shen, Li and Wang, Zhenyi and Liu, Shiwei and Guo, Guibing and Wang, Xingwei and Tao, Dacheng},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2025},
+  publisher={IEEE}
+}
+
 @InProceedings{DFGP_ICCV_2023,
     author    = {Yang, Enneng and Shen, Li and Wang, Zhenyi and Liu, Shiwei and Guo, Guibing and Wang, Xingwei},
     title     = {Data Augmented Flatness-aware Gradient Projection for Continual Learning},
